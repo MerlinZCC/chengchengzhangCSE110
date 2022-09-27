@@ -3,16 +3,16 @@
 ![personal profile](https://user-images.githubusercontent.com/73867633/192628373-9d0497f7-87ba-404f-8f8c-ce2b45541a31.jpg)
 
 ## About Me
- I am a third-year ** computer engineering ** student, really excited to take CSE 110 which is my first project-based CSE class.
+ I am a third-year **computer engineering** student, really excited to take CSE 110 which is my first project-based CSE class.
 
 ##Recent Goal
 >I’m currently seeking summer internships and research opportunities related to the fields of computer science and software engineering.
 
 Daily Tasks:
-- [ ]GRE Prep
-- [ ]Leetcode Practice
-- [ ]Homework
-- [ ]Lectures/Discussions/Labs
+- [ ] GRE Prep
+- [ ] Leetcode Practice
+- [ ] Homework
+- [ ] Lectures/Discussions/Labs
 
 Favorite singers:
 - John Mayer
