@@ -5,7 +5,7 @@
 ## About Me
  I am a third-year **computer engineering** student, really excited to take CSE 110 which is my first project-based CSE class.
 
-##Recent Goal
+## Recent Goal
 >I’m currently seeking summer internships and research opportunities related to the fields of computer science and software engineering.
 
 Daily Tasks:
