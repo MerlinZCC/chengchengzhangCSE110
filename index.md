@@ -10,7 +10,7 @@
 
 Daily Tasks:
 - [ ] GRE Prep
-- [ ] Leetcode Practice
+- [ ] Practice
 - [ ] Homework
 - [ ] Lectures/Discussions/Labs
 
@@ -28,7 +28,7 @@ Here are the courses that I am taking this quarter:
 
 *Feel free to Reach out!*
 ## Contact
-[LinkedIn](linkedin.com/in/cheng-cheng-zhang)
+[LinkedIn](https://www.linkedin.com/in/cheng-cheng-zhang/)
 
 chz009@ucsd.edu
 
